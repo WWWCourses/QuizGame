@@ -1,0 +1,10 @@
+#quiz-container ul{
+    padding: 0;
+}
+#quiz-container li{
+    list-style-type:none;
+}
+
+input[name="option1"]:checked{
+    width: 50px;
+}
